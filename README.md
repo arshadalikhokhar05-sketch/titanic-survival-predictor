@@ -55,7 +55,7 @@ The most important features by permutation importance are **Title** (extracted f
 
 Watch the complete project demonstration:
 
-**[▶ Watch Titanic Survival Prediction Demo](YOUR_VIDEO_LINK_HERE)**
+**[▶ Watch Titanic Survival Prediction Demo](assets/demo/project demo.mp4)**
 
 The demonstration covers the application interface, passenger information input, and machine learning predictions.
 ## 🔧 What was improved over the original notebook
