@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚢 Titanic Survival Predictor
 
 An end-to-end machine-learning project with an **interactive web app**. Enter a passenger's details and the model estimates their chance of surviving the Titanic disaster, explains *why*, and lets you explore the data and compare models, all in the browser.
@@ -48,7 +48,16 @@ Evaluated on a stratified 20 % hold-out set (179 passengers) that was never used
 Model selection used 5-fold cross-validation on the training split only (Logistic Regression, Random Forest, Gradient Boosting and SVM all landed within about 2 points of each other, around 81-83 %). With 891 rows, differences that small are mostly noise, so the simplest model that does as well as the rest was kept.
 
 The most important features by permutation importance are **Title** (extracted from the passenger's name), **Sex**, **Age** and **Class**.
+## 📸 Project Screenshots & video 
 
+
+###  Project Demonstration Video
+
+Watch the complete project demonstration:
+
+**[▶ Watch Titanic Survival Prediction Demo](YOUR_VIDEO_LINK_HERE)**
+
+The demonstration covers the application interface, passenger information input, and machine learning predictions.
 ## 🔧 What was improved over the original notebook
 
 - **Feature engineering**: passenger title, family size, travelling alone, cabin recorded.
