@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 streamlit>=1.50
 pandas>=2.0
 numpy>=1.24
@@ -13,4 +13,4 @@ seaborn
 scikit-learn
 streamlit
 joblib
->>>>>>> e10d9b6a19cbad457e450bc6321f95cf6fb55a91
+
